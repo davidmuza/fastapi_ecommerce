@@ -1,1 +1,1 @@
-# Интернет магазин на FastAPI
+# 🛒 FastAPI E-commerce Backend
